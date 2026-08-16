@@ -1,5 +1,5 @@
 /* 墨记 · Service Worker —— 离线缓存应用外壳 */
-const CACHE = 'moji-cache-v1';
+const CACHE = 'moji-cache-v2';
 const ASSETS = [
   './',
   './index.html',
